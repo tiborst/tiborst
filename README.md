@@ -2,4 +2,4 @@
 
 - 🔭 Psychology student (MSc)
 - 📓 University of Vienna 
-- interested in Cognitive Psychology & Neuroscience :brain:
+- :brain: interested in Cognitive Psychology & Neuroscience 
