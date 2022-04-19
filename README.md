@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Psychology student (MSc)
-- 📓 University of Vienna 
-- :brain: interested in Cognitive Psychology & Neuroscience 
+- 📓 University of Vienna
+- :brain: Interested in Cognitive Psychology & Neuroscience
 - 👨‍💻 MATLAB / R / Python
